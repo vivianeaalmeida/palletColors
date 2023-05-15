@@ -1,3 +1,7 @@
+# Color Pallet
+Project to improve react skills. This should work as a extra study to the Bootcamp Bytes4Future.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
